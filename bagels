@@ -1,0 +1,40 @@
+<html>
+<font family="Comic Sans">
+<body style="background-color:black;">
+<title>Buy squirrels</title>
+   <a href="https://fox95.github.io/fox95/" class="button">Home</a> </h2> </font>
+<font color = "red" family = "Comic Sans">
+<!-- Courier, Monaco, Brush Script MT, Comic Sans -->
+<h1>BAGEL</h1>
+<font color = "blue">
+
+<script>
+function successbuy() {
+  alert("successfully purchased item");
+}
+</script>
+
+<style>
+.button {
+  background:    #15d798;
+  border-radius: 11px;
+  padding:       20px 45px;
+  color:         #ffffff;
+  display:       inline-block;
+  font:          normal bold 26px/1 "Open Sans", sans-serif;
+  text-align:    center;
+}
+</style>
+<button class="button" onclick="successbuy()">BUY 29,000,000</button>
+
+
+<font color = "white" size="7">
+<p>for a reasonable price of 29 Million USD Dollars, our new hi-tech bagel jets come in 3 colors: white, black, and silver. They are shaped like a bagel and include 2 jets engines for speeds of up to 3000 MPH, A armory full of hi-tech devices and weaponry, over 50 Missile launchers, and more, for all your Secret Organisation needs.</p>
+</body>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Bagel-Plain-Alt.jpg" width="700" height="400"> </img>
+   <font size="4" color="red">
+      Depiction of ship (color silver) </font>
+</html>
+<font size=2 color="white">
+  <footer>&copy; Copyright 2021 fox95 corp. All rights reserved </footer> </font>
+</font>
