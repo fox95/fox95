@@ -1,4 +1,4 @@
-welcome, if anyone asks i am NOT building a dyson sphere
-<!--
+welcome, if anyone asks i am not building a dyson sphere 🦊
+<!-
 
 -->
